@@ -1,11 +1,13 @@
 import React from "react";
 // import { } from 'react-icons'
 
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
-    <div className="App">
-      <div>/</div>
-    </div>
+    <>
+      <Navbar />
+    </>
   );
 }
 
